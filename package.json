@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "browserify": "10.2.1",
+    "reqlite": "https://github.com/neumino/reqlite/tarball/c90e782876dbc272ef313f3113c8a1f3de7c6198"
+  }
+}
