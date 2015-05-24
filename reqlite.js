@@ -1,2 +1,3 @@
-reqlite = require('reqlite');
-module.exports = reqlite;
+module.exports = {
+  reqlite: require('reqlite')
+};
